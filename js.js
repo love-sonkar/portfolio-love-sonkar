@@ -1,6 +1,6 @@
 let op = document.getElementById("line-open");
 let clo = document.getElementById("line-close");
-let menu = document.getElementById("width");
+let menu = document.getElementById("width-mobile");
 
 function opennavigation() {
   op.style.display = "none";
